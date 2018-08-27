@@ -1,2 +1,2 @@
-# Dictionary_kivy
+# Dictionary_kivy_Python
 Dictionary GUI Application Using kivy
